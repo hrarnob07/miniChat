@@ -1,0 +1,6 @@
+framework module Pods_miniChat {
+  umbrella header "Pods-miniChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
